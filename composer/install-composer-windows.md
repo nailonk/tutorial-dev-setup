@@ -13,5 +13,8 @@ php -v
 - Pilih **Composer-Setup.exe** dan unduh
 - Klik dua kali file `Composer-Setup.exe`
 - Pilih **PHP path** jika diminta (biasanya otomatis terdeteksi)
-- Centang opsi untuk menambahkan Composer ke PATH agar bisa dijalankan dari Command Prompt  
+  ![](https://github.com/nailonk/tutorial-dev-setup/blob/main/asset/path.png)
+  > Centang opsi **Add this PHP to your path** agar bisa dijalankan dari Command Prompt  
 - Klik **Install** dan tunggu proses selesai
+  ![](https://github.com/nailonk/tutorial-dev-setup/blob/main/asset/install-composer.png)
+
